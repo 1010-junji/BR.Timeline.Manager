@@ -5,3 +5,5 @@
 > BizRobo! 環境のセットアップと運用を支援するための非公式（Unofficial）なツールキットです。
 
 BizRobo! Timeline Manager 配布用リポジトリ。BizRobo!のロボット（`.robot`）やタイプ（`.type`）ファイルの 「いつ」「誰が」「何を」変更したのかを記録・管理するためのツール です。Git の難しいコマンドを覚える必要はなく、画面のボタンをクリックするだけで、安全にバージョン管理（タイムライン管理）を行えます。
+
+👉 [BizRobo! Timeline Manager 利用ガイド](docs/UsersManual.md)
