@@ -26,6 +26,9 @@ BizRobo! Timeline Manager は、BizRobo!のロボット（`.robot`）やタイ�
 
 このガイドでは、それぞれの役割に応じた使い方を解説していきます。
 
+> [!Important]  
+> Robot Lifecycle Management については 👉 [こちら](https://1010-junji.github.io/br-notes/RobotLifecycleManagement/) を参照ください。
+
 ---
 
 ### 2. 初回起動と共通セットアップ
